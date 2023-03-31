@@ -1,0 +1,13 @@
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\bin\Debug\netcoreapp3.1\FinfingNumbers.exe
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\bin\Debug\netcoreapp3.1\FinfingNumbers.deps.json
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\bin\Debug\netcoreapp3.1\FinfingNumbers.runtimeconfig.json
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\bin\Debug\netcoreapp3.1\FinfingNumbers.runtimeconfig.dev.json
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\bin\Debug\netcoreapp3.1\FinfingNumbers.dll
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\bin\Debug\netcoreapp3.1\FinfingNumbers.pdb
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\obj\Debug\netcoreapp3.1\FinfingNumbers.csprojAssemblyReference.cache
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\obj\Debug\netcoreapp3.1\FinfingNumbers.AssemblyInfoInputs.cache
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\obj\Debug\netcoreapp3.1\FinfingNumbers.AssemblyInfo.cs
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\obj\Debug\netcoreapp3.1\FinfingNumbers.csproj.CoreCompileInputs.cache
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\obj\Debug\netcoreapp3.1\FinfingNumbers.dll
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\obj\Debug\netcoreapp3.1\FinfingNumbers.pdb
+D:\Иван 11а\FinfingNumbers\FinfingNumbers\obj\Debug\netcoreapp3.1\FinfingNumbers.genruntimeconfig.cache

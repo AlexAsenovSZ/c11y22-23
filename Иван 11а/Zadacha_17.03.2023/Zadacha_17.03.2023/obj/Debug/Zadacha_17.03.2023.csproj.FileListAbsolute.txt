@@ -1,0 +1,10 @@
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\bin\Debug\Zadacha_17.03.2023.exe.config
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\bin\Debug\Zadacha_17.03.2023.exe
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\bin\Debug\Zadacha_17.03.2023.pdb
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\obj\Debug\Zadacha_17.03.2023.csprojAssemblyReference.cache
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\obj\Debug\Zadacha_17._03._2023.Form1.resources
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\obj\Debug\Zadacha_17._03._2023.Properties.Resources.resources
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\obj\Debug\Zadacha_17.03.2023.csproj.GenerateResource.cache
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\obj\Debug\Zadacha_17.03.2023.csproj.CoreCompileInputs.cache
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\obj\Debug\Zadacha_17.03.2023.exe
+D:\Иван 11а\Zadacha_17.03.2023\Zadacha_17.03.2023\obj\Debug\Zadacha_17.03.2023.pdb
