@@ -1,0 +1,13 @@
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\bin\Debug\netcoreapp3.1\toSmall and toCapital methods.exe
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\bin\Debug\netcoreapp3.1\toSmall and toCapital methods.deps.json
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\bin\Debug\netcoreapp3.1\toSmall and toCapital methods.runtimeconfig.json
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\bin\Debug\netcoreapp3.1\toSmall and toCapital methods.runtimeconfig.dev.json
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\bin\Debug\netcoreapp3.1\toSmall and toCapital methods.dll
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\bin\Debug\netcoreapp3.1\toSmall and toCapital methods.pdb
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\obj\Debug\netcoreapp3.1\toSmall and toCapital methods.csprojAssemblyReference.cache
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\obj\Debug\netcoreapp3.1\toSmall and toCapital methods.AssemblyInfoInputs.cache
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\obj\Debug\netcoreapp3.1\toSmall and toCapital methods.AssemblyInfo.cs
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\obj\Debug\netcoreapp3.1\toSmall and toCapital methods.csproj.CoreCompileInputs.cache
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\obj\Debug\netcoreapp3.1\toSmall and toCapital methods.dll
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\obj\Debug\netcoreapp3.1\toSmall and toCapital methods.pdb
+D:\Иван 11а\toSmall and toCapital methods\toSmall and toCapital methods\obj\Debug\netcoreapp3.1\toSmall and toCapital methods.genruntimeconfig.cache

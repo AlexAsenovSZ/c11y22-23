@@ -1,0 +1,13 @@
+D:\Иван 11а\Zadachi\Zadachi\bin\Debug\netcoreapp3.1\Zadachi.exe
+D:\Иван 11а\Zadachi\Zadachi\bin\Debug\netcoreapp3.1\Zadachi.deps.json
+D:\Иван 11а\Zadachi\Zadachi\bin\Debug\netcoreapp3.1\Zadachi.runtimeconfig.json
+D:\Иван 11а\Zadachi\Zadachi\bin\Debug\netcoreapp3.1\Zadachi.runtimeconfig.dev.json
+D:\Иван 11а\Zadachi\Zadachi\bin\Debug\netcoreapp3.1\Zadachi.dll
+D:\Иван 11а\Zadachi\Zadachi\bin\Debug\netcoreapp3.1\Zadachi.pdb
+D:\Иван 11а\Zadachi\Zadachi\obj\Debug\netcoreapp3.1\Zadachi.csprojAssemblyReference.cache
+D:\Иван 11а\Zadachi\Zadachi\obj\Debug\netcoreapp3.1\Zadachi.AssemblyInfoInputs.cache
+D:\Иван 11а\Zadachi\Zadachi\obj\Debug\netcoreapp3.1\Zadachi.AssemblyInfo.cs
+D:\Иван 11а\Zadachi\Zadachi\obj\Debug\netcoreapp3.1\Zadachi.csproj.CoreCompileInputs.cache
+D:\Иван 11а\Zadachi\Zadachi\obj\Debug\netcoreapp3.1\Zadachi.dll
+D:\Иван 11а\Zadachi\Zadachi\obj\Debug\netcoreapp3.1\Zadachi.pdb
+D:\Иван 11а\Zadachi\Zadachi\obj\Debug\netcoreapp3.1\Zadachi.genruntimeconfig.cache
