@@ -1,0 +1,7 @@
+C:\Домашни 2022-2023\Информатика\namiraneNaSimvoli\namiraneNaSimvoli\bin\Debug\namiraneNaSimvoli.exe.config
+C:\Домашни 2022-2023\Информатика\namiraneNaSimvoli\namiraneNaSimvoli\bin\Debug\namiraneNaSimvoli.exe
+C:\Домашни 2022-2023\Информатика\namiraneNaSimvoli\namiraneNaSimvoli\bin\Debug\namiraneNaSimvoli.pdb
+C:\Домашни 2022-2023\Информатика\namiraneNaSimvoli\namiraneNaSimvoli\obj\Debug\namiraneNaSimvoli.csproj.AssemblyReference.cache
+C:\Домашни 2022-2023\Информатика\namiraneNaSimvoli\namiraneNaSimvoli\obj\Debug\namiraneNaSimvoli.csproj.CoreCompileInputs.cache
+C:\Домашни 2022-2023\Информатика\namiraneNaSimvoli\namiraneNaSimvoli\obj\Debug\namiraneNaSimvoli.exe
+C:\Домашни 2022-2023\Информатика\namiraneNaSimvoli\namiraneNaSimvoli\obj\Debug\namiraneNaSimvoli.pdb
