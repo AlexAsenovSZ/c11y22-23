@@ -8,6 +8,20 @@ namespace namiraneNaSimvoli
 {
     class Ivan
     {
+        public int number;
+
+        private void CmToInch()
+        {
+            this.number  = this.number / 2.54;
+        }
+
+        public int FaceCube()
+        {
+            this.CmToInch();
+            int numberMethod = this.number;
+            return numberMethod*numberMethod;
+        }
+
         public int lettersCount(string text)
         {
             int charCounter = 0;
@@ -33,7 +47,7 @@ namespace namiraneNaSimvoli
                 wordCounter = 1;
                 foreach (char item in text)
                 {
-                    if (item ==' ')
+                    if (item == ' ')
                     {
                         wordCounter++;
                     }
