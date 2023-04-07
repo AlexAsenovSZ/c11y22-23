@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,18 +9,31 @@ namespace namiraneNaSimvoli
 {
     class Ivan
     {
-        public int number;
+        public double number;
 
         private void CmToInch()
         {
-            this.number  = this.number / 2.54;
+            this.number  /= 2.54;
+            i++;
+            i += 1
+                    ++i 
         }
 
-        public int FaceCube()
+        public double FaceCube()
         {
             this.CmToInch();
-            int numberMethod = this.number;
-            return numberMethod*numberMethod;
+            //int numberMethod = this.number;
+            return this.number * this.number;
+        }
+
+        public void FaceCubeObj()
+        {
+            double numberConsole = double.Parse(Console.ReadLine());
+            Ivan IvanObj = new Ivan();
+            IvanObj.number = numberConsole;
+            //int faceCube = IvanObj.FaceCube();
+            Console.Write("Face Cube: ");
+            Console.WriteLine(IvanObj.FaceCube());
         }
 
         public int lettersCount(string text)
