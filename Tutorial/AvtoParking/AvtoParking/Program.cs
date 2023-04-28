@@ -14,12 +14,14 @@ namespace AvtoParking
             string input;
             while (true)
             {
+                int number = 0;
                 Console.WriteLine("Welcome!");
                 Console.Write("enter (t) or exit (f): ");
                 input = Console.ReadLine();
                 if (input == "t")
                 {
-                    Pmol.Enter();
+                    number = Pmol.Enter();
+                    Console.Write("Parking number: {0}",number);
                 }
                 else
                 {

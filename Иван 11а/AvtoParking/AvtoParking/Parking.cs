@@ -19,10 +19,12 @@ namespace AvtoParking
         {
             for (int i = 0; i < position.Length; i++)
             {
-                position[i] = int.Parse(Console.ReadLine());
+                //position[i] = int.Parse(Console.ReadLine());
                 if (position[i] == 0)
                 {
-                    Console.WriteLine("Welcome!");
+                    //Console.WriteLine("Welcome!");
+                    position[i] = 1;
+                    return i;
                     break;
                 }
                 if (counter > 20)
