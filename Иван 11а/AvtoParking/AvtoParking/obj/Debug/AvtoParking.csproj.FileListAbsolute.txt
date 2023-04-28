@@ -1,0 +1,16 @@
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.csproj.AssemblyReference.cache
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.csproj.CoreCompileInputs.cache
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\bin\Debug\AvtoParking.exe.config
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\bin\Debug\AvtoParking.exe
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\bin\Debug\AvtoParking.pdb
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.exe
+C:\Users\Study\Source\Repos\GitHub\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.pdb
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\bin\Debug\AvtoParking.exe.config
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\bin\Debug\AvtoParking.exe
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\bin\Debug\AvtoParking.pdb
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.csproj.AssemblyReference.cache
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.csproj.SuggestedBindingRedirects.cache
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.csproj.CoreCompileInputs.cache
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.exe
+C:\Домашни\Информатика\c11y22-23\Tutorial\AvtoParking\AvtoParking\obj\Debug\AvtoParking.pdb
